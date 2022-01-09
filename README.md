@@ -1,7 +1,6 @@
 # Printing-Calculator
 
-Write a program that acts as a simple “printing”calculator. The program takes two inputs
-from the user:
+Write a program that acts as a “printing” calculator. The program takes two inputs from the user:
 number
 operator
 
